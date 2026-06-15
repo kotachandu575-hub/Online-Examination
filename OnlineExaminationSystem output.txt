@@ -1,0 +1,62 @@
+===== ONLINE EXAMINATION SYSTEM =====
+
+Enter Username: admin
+Enter Password: admin123
+
+Login Successful!
+
+===== MENU =====
+1. Start Exam
+2. Update Profile
+3. Change Password
+4. Logout
+
+Enter Choice: 1
+
+Exam Started!
+You have 60 seconds.
+
+1. Java is a?
+A. Programming Language
+B. Browser
+C. OS
+D. Database
+
+Answer: A
+
+2. Which company developed Java?
+A. Google
+B. Microsoft
+C. Sun Microsystems
+D. Apple
+
+Answer: C
+
+3. Java is ____ language?
+A. Low Level
+B. High Level
+C. Machine
+D. Assembly
+
+Answer: B
+
+4. JVM stands for?
+A. Java Virtual Machine
+B. Java Variable Method
+C. Joint VM
+D. None
+
+Answer: A
+
+5. Which keyword is used for inheritance?
+A. extends
+B. implement
+C. inherit
+D. super
+
+Answer: A
+
+===== RESULT =====
+Total Questions: 5
+Correct Answers: 5
+Score: 5/5
